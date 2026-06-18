@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/team-availability/static/css/main.f6831613.css",
-    "main.js": "/team-availability/static/js/main.00fbfe78.js",
+    "main.js": "/team-availability/static/js/main.6e681855.js",
     "index.html": "/team-availability/index.html",
     "main.f6831613.css.map": "/team-availability/static/css/main.f6831613.css.map",
-    "main.00fbfe78.js.map": "/team-availability/static/js/main.00fbfe78.js.map"
+    "main.6e681855.js.map": "/team-availability/static/js/main.6e681855.js.map"
   },
   "entrypoints": [
     "static/css/main.f6831613.css",
-    "static/js/main.00fbfe78.js"
+    "static/js/main.6e681855.js"
   ]
 }
